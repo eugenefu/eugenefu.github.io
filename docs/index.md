@@ -42,10 +42,10 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
 **Selected Publications:**
 
 * **[Neurocomputing '25]** TMAN: A temporal multimodal attention network for backchannel detection. *Neurocomputing*. [Paper](https://doi.org/10.1016/j.neucom.2025.131605) [Code](https://github.com/AffectiveComputingLab-HK/TMAN_Backchannel)
-* **[IJMI '25]** Refractive error detection in smartphone images via convolutional neural network. *International Journal of Medical Informatics*.
-* **[EAAI '23]** Is your mouse attracted by your eyes: Non-intrusive stress detection in off-the-shelf desktop environments. *Engineering Applications of Artificial Intelligence*.
-* **[ACM MM '21]** Using Motion Histories for Eye Contact Detection in Multiperson Group Conversations. *ACM International Conference on Multimedia*.
-* **[MoMM '16]** Automatic fight detection in surveillance videos. *Advances in Mobile Computing and Multi Media*. (Best Student Paper).
+* **[IJMI '25]** Refractive error detection in smartphone images via convolutional neural network. *International Journal of Medical Informatics*. [Paper](https://doi.org/10.1016/j.ijmedinf.2025.106083)
+* **[EAAI '23]** Is your mouse attracted by your eyes: Non-intrusive stress detection in off-the-shelf desktop environments. *Engineering Applications of Artificial Intelligence*. [Paper](https://doi.org/10.1016/j.engappai.2023.106495)
+* **[ACM MM '23]** MultiMediate 2023: Engagement Level Detection using Audio and Video Features. *ACM International Conference on Multimedia* [Paper](https://doi.org/10.1145/3581783.3612873)
+* **[ACM MM '23]** Unveiling Subtle Cues: Backchannel Detection Using Temporal Multimodal Attention Networks. *ACM International Conference on Multimedia*. [Paper](https://doi.org/10.1145/3581783.3612870)
 
 **Selected Projects:**
 
