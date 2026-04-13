@@ -11,7 +11,7 @@ The Education University of Hong Kong (EdUHK)
 **Phone:** (+852) 2948 7936  
 **Address:** B4-2/F-24, The Education University of Hong Kong  
 
-[Google Scholar] | [ResearchGate] | [GitHub] | [ORCID]
+[Google Scholar](https://scholar.google.com/citations?user=dipVCTIAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Eugene-Fu) | [GitHub](https://github.com/AffectiveComputingLab-HK) | [ORCID](https://orcid.org/0000-0003-1048-1904)
 
 <div style="clear: both;"></div>
 
@@ -41,7 +41,7 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
 
 **Selected Publications:**
 
-* **[Neurocomputing '25]** [TMAN: A temporal multimodal attention network for backchannel detection](https://doi.org/10.1016/j.neucom.2025.131605). *Neurocomputing*.
+* **[Neurocomputing '25]** TMAN: A temporal multimodal attention network for backchannel detection. *Neurocomputing*. [Paper](https://doi.org/10.1016/j.neucom.2025.131605) [Code](https://github.com/AffectiveComputingLab-HK/TMAN_Backchannel)
 * **[IJMI '25]** Refractive error detection in smartphone images via convolutional neural network. *International Journal of Medical Informatics*.
 * **[EAAI '23]** Is your mouse attracted by your eyes: Non-intrusive stress detection in off-the-shelf desktop environments. *Engineering Applications of Artificial Intelligence*.
 * **[ACM MM '21]** Using Motion Histories for Eye Contact Detection in Multiperson Group Conversations. *ACM International Conference on Multimedia*.
