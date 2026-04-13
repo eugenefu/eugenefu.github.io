@@ -21,7 +21,7 @@ The Education University of Hong Kong (EdUHK)
 
 Dr. Eugene Yujun Fu is an Assistant Professor at The Education University of Hong Kong (EdUHK). Prior to joining EdUHK, he served as a Research Assistant Professor and Postdoctoral Fellow at The Hong Kong Polytechnic University (PolyU). He earned his Ph.D. in Computing from PolyU, his M.Sc. in Electronic Engineering from City University of Hong Kong, and his B.Eng. in Computer Science and Technology from Zhejiang University.
 
-Dr. Fu's research is inherently interdisciplinary, focusing on **Human-Centric Artificial Intelligence (AI)**. He applies machine learning, multimedia computing, and signal processing to understand human behavior and solve real-world problems. His work spans diverse fields, including affective computing, educational data mining, AI security, digital healthcare, and smart firefighting. He actively collaborates with experts across various domains to develop practical, AI-driven solutions that enhance human health, safety, and learning experiences.
+Eugene's research is inherently interdisciplinary, focusing on **Human-Centric Artificial Intelligence (AI)**. He applies machine learning, multimedia computing, and signal processing to understand human behavior and solve real-world problems. His work spans diverse fields, including affective computing, educational data mining, AI security, digital healthcare, and smart firefighting. He actively collaborates with experts across various domains to develop practical, AI-driven solutions that enhance human health, safety, and learning experiences.
 
 ---
 
@@ -41,7 +41,7 @@ Dr. Fu's research is inherently interdisciplinary, focusing on **Human-Centric A
 
 **Selected Publications:**
 
-* **[Neurocomputing '25]** TMAN: A temporal multimodal attention network for backchannel detection. *Neurocomputing*.
+* **[Neurocomputing '25]** [TMAN: A temporal multimodal attention network for backchannel detection](https://doi.org/10.1016/j.neucom.2025.131605). *Neurocomputing*.
 * **[IJMI '25]** Refractive error detection in smartphone images via convolutional neural network. *International Journal of Medical Informatics*.
 * **[EAAI '23]** Is your mouse attracted by your eyes: Non-intrusive stress detection in off-the-shelf desktop environments. *Engineering Applications of Artificial Intelligence*.
 * **[ACM MM '21]** Using Motion Histories for Eye Contact Detection in Multiperson Group Conversations. *ACM International Conference on Multimedia*.
