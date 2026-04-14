@@ -49,22 +49,24 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
 
 **Selected Projects:**
 
-* **Research and Development of Robust Refractive Error Detection Utilizing Machine Learning Models and Smartphone Videos** (2025) — *Co-PI*, ITF-ITSP Seed Project, **$999,925**.
-* **Modeling Individual Differences in Nonverbal Communication Cues: A Machine Learning Framework for Enhanced Backchannel and Engagement Detection** (2025) — *PI*, Start-up Research Grant EdUHK, **$300,000**.
-* **Tomorrow Digital Healthcare in Metaverse: Developing AI-Powered Personalized Remote Health Monitoring and Therapy Platform** (2024) — *PI*, PolyU, **$1,483,694**.
-* **Towards Digital Mental Health Care for College Students: Developing Machine Learning Models for In-Situ Stress Detection via Multimodal Signals** (2022) — *PI*, Start-up Research Grant PolyU, **$250,000**.
+* Research and Development of Robust Refractive Error Detection Utilizing Machine Learning Models and Smartphone Videos (2025) — *Co-PI*, **ITF-ITSP Seed Project**, **$999,925**.
+* Modeling Individual Differences in Nonverbal Communication Cues: A Machine Learning Framework for Enhanced Backchannel and Engagement Detection (2025) — *PI*, Start-up Research Grant EdUHK, **$300,000**.
+* Tomorrow Digital Healthcare in Metaverse: Developing AI-Powered Personalized Remote Health Monitoring and Therapy Platform (2024) — *PI*, PolyU, **$1,483,694**.
+* Towards Digital Mental Health Care for College Students: Developing Machine Learning Models for In-Situ Stress Detection via Multimodal Signals (2022) — *PI*, Start-up Research Grant PolyU, **$250,000**.
 
 ### 2. AI in Education & Educational Data Mining
 *Focusing on learning analytics, student engagement, and AI-driven educational support.*
 
 **Selected Publications:**
 
+* **[BESC '25]** Using Topic Detection to Analyze Student Reflections in Service-Learning: A Text Mining Method for Understanding Learning Gains. *International Conference on Behavioural and Social Computing*. (Best Paper Award) [Paper](https://doi.org/10.1007/978-981-95-7138-3_27)
 * **[KBS '25]** Personalized e-learning resource recommendation using multimodal-enhanced collaborative filtering. *Knowledge-Based Systems*.
 * **[EAIT '23]** Using attention-based neural networks for predicting student learning outcomes in service-learning. *Education and Information Technologies*.
+* 
 
 **Selected Projects:**
 
-* **Special Teaching Assistant with Responsive Sensing (STARS): Research and Development on Multimodal AI-Driven Educational Support Systems for SEN Students** (2025) — *PI*, Knowledge Transfer Fund EdUHK, **$400,000**.
+* Special Teaching Assistant with Responsive Sensing (STARS): Research and Development on Multimodal AI-Driven Educational Support Systems for SEN Students (2025) — *PI*, Knowledge Transfer Fund EdUHK, **$400,000**.
 
 ### 3. Reliable AI & Security
 *Focusing on the safety of cyber-physical systems, LLM security, and scam detection.*
@@ -88,6 +90,7 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
 
 ## Honors & Awards
 
+* **Best Paper Award**, BESC (2025)
 * **Silver Medal**, International Exhibition of Inventions Geneva (2025 & 2023)
 * **1st Place**, Backchannel Detection Challenge, Grand Challenge at ACM MM (2023)
 * **2nd Place**, Engagement Estimation Challenge, Grand Challenge at ACM MM (2023)
