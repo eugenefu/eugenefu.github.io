@@ -79,7 +79,7 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
   
    <!-- Highlight 1: ITF Refractive Error -->
   <div class="scrolling-card">
-    <img src="images/refractive_error.jpeg" alt="Refractive Error Detection" />
+    <img src="images/refractive_error.png" alt="Refractive Error Detection" />
     <h4>Smartphone-based Refractive Error Detection</h4>
     <p>Developing robust machine learning models for detecting refractive errors using smartphone videos. Supported by the ITF-ITSP Seed Project ($999,925).</p>
   </div>
