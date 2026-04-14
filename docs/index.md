@@ -93,14 +93,14 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
 
   <!-- Highlight 3: LLM Scam Detection -->
   <div class="scrolling-card">
-    <img src="images/scam_detection.jpg" alt="LLM Scam Detection" />
+    <img src="images/scam_detection.png" alt="LLM Scam Detection" />
     <h4>Real-time Phone Scam Detection</h4>
     <p>Exploring LLM-based and privacy-preserving (MASK) real-time detection of phone scams. Published in top-tier venues including CHI '25 and ACM MM '25.</p>
   </div>
 
   <!-- Highlight 4: Multimedia Communication Behavior -->
   <div class="scrolling-card">
-    <img src="images/communication_behavior.jpg" alt="Multimedia Communication Behavior" />
+    <img src="images/communication_behavior.png" alt="Multimedia Communication Behavior" />
     <h4>Nonverbal Communication & Engagement</h4>
     <p>Modeling individual differences in nonverbal cues for enhanced backchannel and engagement detection. Several awards and publications at the ACM MM Grand Challenge.</p>
   </div>
@@ -110,6 +110,13 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
     <img src="images/smart_firefighting.png" alt="Smart Firefighting" />
     <h4>AI for Smart Firefighting</h4>
     <p>Predicting real-time flashover occurrences in multi-compartment buildings using explainable machine learning and spatial-temporal graph neural networks.</p>
+  </div>
+
+  <!-- Highlight 6: Electromagnetic Signal Injection Attacks -->
+  <div class="scrolling-card">
+    <img src="images/esia.png" alt="Electromagnetic Signal Injection Attacks" />
+    <h4>Electromagnetic Signal Injection Attacks</h4>
+    <p>Understanding, modeling, and mitiaging the impacts of Electromagnetic Signal Injection Attacks (ESIA) on intelligent image sensing.</p>
   </div>
 
 </div>
