@@ -60,9 +60,10 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
 **Selected Publications:**
 
 * **[BESC '25]** Using Topic Detection to Analyze Student Reflections in Service-Learning: A Text Mining Method for Understanding Learning Gains. *International Conference on Behavioural and Social Computing*. (Best Paper Award) [Paper](https://doi.org/10.1007/978-981-95-7138-3_27)
-* **[KBS '25]** Personalized e-learning resource recommendation using multimodal-enhanced collaborative filtering. *Knowledge-Based Systems*.
-* **[EAIT '23]** Using attention-based neural networks for predicting student learning outcomes in service-learning. *Education and Information Technologies*.
-* 
+* **[BESC '25]** Multimodal Learning Analytics for Predicting Learning Gains in Online Service-Learning Programs. *International Conference on Behavioural and Social Computing*. [Paper](https://doi.org/10.1007/978-981-95-7138-3_32)
+* **[BESC '25]** Student Learning Engagement Recognition Method Based on Video Transformer. *International Conference on Behavioural and Social Computing*. [Paper](https://doi.org/10.1007/978-981-95-7138-3_18)
+* **[KBS '25]** Personalized e-learning resource recommendation using multimodal-enhanced collaborative filtering. *Knowledge-Based Systems*. [Paper](https://doi.org/10.1016/j.knosys.2025.113605)
+* **[EAIT '23]** Using attention-based neural networks for predicting student learning outcomes in service-learning. *Education and Information Technologies*. [Paper](https://doi.org/10.1007/s10639-023-11592-0)
 
 **Selected Projects:**
 
@@ -73,17 +74,21 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
 
 **Selected Publications:**
 
-* **[ACM MM '25]** One Size Fits All? A Modular Adaptive Sanitization Kit (MASK) for Customizable Privacy-Preserving Phone Scam Detection. *ACM International Conference on Multimedia*.
-* **[AAAI '25]** Is Your Autonomous Vehicle Safe? Understanding the Threat of Electromagnetic Signal Injection Attacks on Traffic Scene Perception. *AAAI Conference on Artificial Intelligence*.
-* **[CHI '25]** "It Warned Me Just at the Right Moment": Exploring LLM-based Real-time Detection of Phone Scams. *CHI Conference on Human Factors in Computing Systems*.
+* **[ACM MM '25]** One Size Fits All? A Modular Adaptive Sanitization Kit (MASK) for Customizable Privacy-Preserving Phone Scam Detection. *ACM International Conference on Multimedia*. [Paper](https://doi.org/10.1145/3746027.3758164)
+* **[AAAI '25]** Is Your Autonomous Vehicle Safe? Understanding the Threat of Electromagnetic Signal Injection Attacks on Traffic Scene Perception. *AAAI Conference on Artificial Intelligence*. [Paper](https://doi.org/10.1609/aaai.v39i26.34958)
+* **[AAAI '25]** Combating Phone Scams with LLM-based Detection: Where Do We Stand? (Student Abstract) *AAAI Conference on Artificial Intelligence*. [Paper](https://doi.org/10.1609/aaai.v39i28.35298)
+* **[CHI '25]** "It Warned Me Just at the Right Moment": Exploring LLM-based Real-time Detection of Phone Scams. *CHI Conference on Human Factors in Computing Systems*. [Paper](https://doi.org/10.1145/3746027.3758164)
+* **[ICME'24]** Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection *IEEE International Conference on Multimedia and Expo.* [Paper](https://doi.org/10.1109/ICME57554.2024.10688003)
 
 ### 4. Smart City & Engineering Applications (Smart Firefighting)
 *Focusing on applying machine learning to hazard prediction and smart environments.*
 
 **Selected Publications:**
 
+* **[Intelligent Building Fire Safety and Smart Firefighting '24]** 
 * **[ESWA '23]** Real-time flashover prediction model for multi-compartment building structures using attention based recurrent neural networks. *Expert Systems with Applications*.
 * **[EAAI '22]** A spatial temporal graph neural network model for predicting flashover in arbitrary building floorplans. *Engineering Applications of Artificial Intelligence*.
+* **[AAAI '21]**
 * **[Fire Safety Journal '21]** P-Flash–A machine learning-based model for flashover prediction using recovered temperature data. *Fire Safety Journal*.
 
 ---
