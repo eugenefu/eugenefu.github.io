@@ -79,14 +79,14 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
   
    <!-- Highlight 1: ITF Refractive Error -->
   <div class="scrolling-card">
-    <img src="images/refractive_error.jpg" alt="Refractive Error Detection" />
+    <img src="images/refractive_error.jpeg" alt="Refractive Error Detection" />
     <h4>Smartphone-based Refractive Error Detection</h4>
     <p>Developing robust machine learning models for detecting refractive errors using smartphone videos. Supported by the ITF-ITSP Seed Project ($999,925).</p>
   </div>
   
   <!-- Highlight 2: STARS for SEN Students -->
   <div class="scrolling-card">
-    <img src="images/stars_sen.jpg" alt="STARS for SEN Students" />
+    <img src="images/stars_sen.png" alt="STARS for SEN Students" />
     <h4>STARS: Multimodal AI for SEN Students</h4>
     <p>Research and development on multimodal AI-driven educational support systems for Special Educational Needs (SEN) students. Supported by EdUHK KTF.</p>
   </div>
@@ -107,7 +107,7 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
 
   <!-- Highlight 5: Smart Firefighting -->
   <div class="scrolling-card">
-    <img src="images/smart_firefighting.jpg" alt="Smart Firefighting" />
+    <img src="images/smart_firefighting.png" alt="Smart Firefighting" />
     <h4>AI for Smart Firefighting</h4>
     <p>Predicting real-time flashover occurrences in multi-compartment buildings using explainable machine learning and spatial-temporal graph neural networks.</p>
   </div>
