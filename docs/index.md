@@ -34,6 +34,34 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
 
 ---
 
+## Featured Research
+
+<!-- 使用 Flexbox 实现响应式网格布局，在手机端会自动折叠成上下排列 -->
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
+  
+  <!-- Highlight 1: Metaverse Healthcare -->
+  <div style="flex: 1; min-width: 250px; background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <img src="images/metaverse.jpg" alt="Metaverse Healthcare" style="width: 100%; border-radius: 6px; aspect-ratio: 16/9; object-fit: cover; margin-bottom: 10px;" />
+    <h4 style="margin: 0 0 10px 0; font-size: 1.1em; line-height: 1.3;">Tomorrow Digital Healthcare in Metaverse</h4>
+    <p style="font-size: 0.9em; color: #555; margin: 0;">Developing an AI-powered personalized remote health monitoring and therapy platform. Supported by PolyU PI Grant.</p>
+  </div>
+  
+  <!-- Highlight 2: STARS for SEN Students -->
+  <div style="flex: 1; min-width: 250px; background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <img src="images/stars_sen.jpg" alt="STARS for SEN Students" style="width: 100%; border-radius: 6px; aspect-ratio: 16/9; object-fit: cover; margin-bottom: 10px;" />
+    <h4 style="margin: 0 0 10px 0; font-size: 1.1em; line-height: 1.3;">STARS: Multimodal AI for SEN Students</h4>
+    <p style="font-size: 0.9em; color: #555; margin: 0;">Research and development on multimodal AI-driven educational support systems for Special Educational Needs (SEN) students.</p>
+  </div>
+
+  <!-- Highlight 3: LLM Scam Detection -->
+  <div style="flex: 1; min-width: 250px; background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <img src="images/scam_detection.jpg" alt="LLM Scam Detection" style="width: 100%; border-radius: 6px; aspect-ratio: 16/9; object-fit: cover; margin-bottom: 10px;" />
+    <h4 style="margin: 0 0 10px 0; font-size: 1.1em; line-height: 1.3;">Real-time Phone Scam Detection</h4>
+    <p style="font-size: 0.9em; color: #555; margin: 0;">Exploring LLM-based and privacy-preserving (MASK) real-time detection of phone scams. Published in CHI '25 & ACM MM '25.</p>
+  </div>
+
+</div>
+
 ## Selected Publications & Projects by Direction
 
 ### 1. Human-Centered AI & Affective Computing
