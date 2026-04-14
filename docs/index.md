@@ -36,8 +36,6 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
 
 ## Featured Research
 
-## Featured Research
-
 <!-- 提示用户可以左右滑动的小字 -->
 <div style="text-align: right; font-size: 0.85em; color: #888; margin-bottom: 10px; font-style: italic;">
   👉 Swipe / Scroll horizontally to see more
@@ -79,25 +77,39 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
 <!-- 滚动容器 -->
 <div class="scrolling-wrapper">
   
-  <!-- Highlight 1: Metaverse Healthcare -->
+   <!-- Highlight 1: ITF Refractive Error -->
   <div class="scrolling-card">
-    <img src="images/metaverse.jpg" alt="Metaverse Healthcare" style="width: 100%; border-radius: 6px; aspect-ratio: 16/9; object-fit: cover; margin-bottom: 10px;" />
-    <h4 style="margin: 0 0 10px 0; font-size: 1.1em; line-height: 1.3;">Tomorrow Digital Healthcare in Metaverse</h4>
-    <p style="font-size: 0.9em; color: #555; margin: 0;">Developing an AI-powered personalized remote health monitoring and therapy platform. Supported by PolyU PI Grant.</p>
+    <img src="images/refractive_error.jpg" alt="Refractive Error Detection" />
+    <h4>Smartphone-based Refractive Error Detection</h4>
+    <p>Developing robust machine learning models for detecting refractive errors using smartphone videos. Supported by the ITF-ITSP Seed Project ($999,925).</p>
   </div>
   
   <!-- Highlight 2: STARS for SEN Students -->
   <div class="scrolling-card">
-    <img src="images/stars_sen.jpg" alt="STARS for SEN Students" style="width: 100%; border-radius: 6px; aspect-ratio: 16/9; object-fit: cover; margin-bottom: 10px;" />
-    <h4 style="margin: 0 0 10px 0; font-size: 1.1em; line-height: 1.3;">STARS: Multimodal AI for SEN Students</h4>
-    <p style="font-size: 0.9em; color: #555; margin: 0;">Research and development on multimodal AI-driven educational support systems for Special Educational Needs (SEN) students.</p>
+    <img src="images/stars_sen.jpg" alt="STARS for SEN Students" />
+    <h4>STARS: Multimodal AI for SEN Students</h4>
+    <p>Research and development on multimodal AI-driven educational support systems for Special Educational Needs (SEN) students. Supported by EdUHK KTF.</p>
   </div>
 
   <!-- Highlight 3: LLM Scam Detection -->
   <div class="scrolling-card">
-    <img src="images/scam_detection.jpg" alt="LLM Scam Detection" style="width: 100%; border-radius: 6px; aspect-ratio: 16/9; object-fit: cover; margin-bottom: 10px;" />
-    <h4 style="margin: 0 0 10px 0; font-size: 1.1em; line-height: 1.3;">Real-time Phone Scam Detection</h4>
-    <p style="font-size: 0.9em; color: #555; margin: 0;">Exploring LLM-based and privacy-preserving (MASK) real-time detection of phone scams. Published in CHI '25 & ACM MM '25.</p>
+    <img src="images/scam_detection.jpg" alt="LLM Scam Detection" />
+    <h4>Real-time Phone Scam Detection</h4>
+    <p>Exploring LLM-based and privacy-preserving (MASK) real-time detection of phone scams. Published in top-tier venues including CHI '25 and ACM MM '25.</p>
+  </div>
+
+  <!-- Highlight 4: Multimedia Communication Behavior -->
+  <div class="scrolling-card">
+    <img src="images/communication_behavior.jpg" alt="Multimedia Communication Behavior" />
+    <h4>Nonverbal Communication & Engagement</h4>
+    <p>Modeling individual differences in nonverbal cues for enhanced backchannel and engagement detection. Awarded 1st Place at the ACM MM '23 Grand Challenge.</p>
+  </div>
+
+  <!-- Highlight 5: Smart Firefighting -->
+  <div class="scrolling-card">
+    <img src="images/smart_firefighting.jpg" alt="Smart Firefighting" />
+    <h4>AI for Smart Firefighting</h4>
+    <p>Predicting real-time flashover occurrences in multi-compartment buildings using explainable machine learning and spatial-temporal graph neural networks.</p>
   </div>
 
 </div>
