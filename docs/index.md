@@ -102,7 +102,7 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
   <div class="scrolling-card">
     <img src="images/communication_behavior.jpg" alt="Multimedia Communication Behavior" />
     <h4>Nonverbal Communication & Engagement</h4>
-    <p>Modeling individual differences in nonverbal cues for enhanced backchannel and engagement detection. Awarded 1st Place at the ACM MM '23 Grand Challenge.</p>
+    <p>Modeling individual differences in nonverbal cues for enhanced backchannel and engagement detection. Several awards and publications at the ACM MM Grand Challenge.</p>
   </div>
 
   <!-- Highlight 5: Smart Firefighting -->
