@@ -78,18 +78,18 @@ Eugene's research is inherently interdisciplinary, focusing on **Human-Centric A
 * **[AAAI '25]** Is Your Autonomous Vehicle Safe? Understanding the Threat of Electromagnetic Signal Injection Attacks on Traffic Scene Perception. *AAAI Conference on Artificial Intelligence*. [Paper](https://doi.org/10.1609/aaai.v39i26.34958)
 * **[AAAI '25]** Combating Phone Scams with LLM-based Detection: Where Do We Stand? (Student Abstract) *AAAI Conference on Artificial Intelligence*. [Paper](https://doi.org/10.1609/aaai.v39i28.35298)
 * **[CHI '25]** "It Warned Me Just at the Right Moment": Exploring LLM-based Real-time Detection of Phone Scams. *CHI Conference on Human Factors in Computing Systems*. [Paper](https://doi.org/10.1145/3746027.3758164)
-* **[ICME'24]** Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection *IEEE International Conference on Multimedia and Expo.* [Paper](https://doi.org/10.1109/ICME57554.2024.10688003)
+* **[ICME'24]** Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection. *IEEE International Conference on Multimedia and Expo.* [Paper](https://doi.org/10.1109/ICME57554.2024.10688003)
 
 ### 4. Smart City & Engineering Applications (Smart Firefighting)
 *Focusing on applying machine learning to hazard prediction and smart environments.*
 
 **Selected Publications:**
 
-* **[Intelligent Building Fire Safety and Smart Firefighting '24]** 
-* **[ESWA '23]** Real-time flashover prediction model for multi-compartment building structures using attention based recurrent neural networks. *Expert Systems with Applications*.
-* **[EAAI '22]** A spatial temporal graph neural network model for predicting flashover in arbitrary building floorplans. *Engineering Applications of Artificial Intelligence*.
-* **[AAAI '21]**
-* **[Fire Safety Journal '21]** P-Flash–A machine learning-based model for flashover prediction using recovered temperature data. *Fire Safety Journal*.
+* **[Intelligent Building Fire Safety and Smart Firefighting '24]** Introduction of Artificial Intelligence. *Intelligent Building Fire Safety and Smart Firefighting* [Paper](https://doi.org/10.1007/978-3-031-48161-1_4)
+* **[ESWA '23]** Real-time flashover prediction model for multi-compartment building structures using attention based recurrent neural networks. *Expert Systems with Applications*. [Paper](https://doi.org/10.1016/j.eswa.2023.119899)
+* **[Fire Safety Journal '23]** An explainable machine learning based flashover prediction model using dimension-wise class activation map. *Fire Safety Journal*. [Paper](https://doi.org/10.1016/j.firesaf.2023.103849)
+* **[EAAI '22]** A spatial temporal graph neural network model for predicting flashover in arbitrary building floorplans. *Engineering Applications of Artificial Intelligence*. [Paper](https://doi.org/10.1016/j.engappai.2022.105258)
+* **[AAAI '21]** Predicting Flashover Occurrence using Surrogate Temperature Data. *AAAI Conference on Artificial Intelligence*. [Paper](https://doi.org/10.1609/aaai.v35i17.17736)
 
 ---
 
